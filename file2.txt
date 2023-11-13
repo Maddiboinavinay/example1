@@ -1,0 +1,4 @@
+A text file is any file that consists of printable characters and few common control characters 
+like newline ‘\n’, carriage return ‘\r’, and tab spaces ‘\t’. 
+On the other hand, non-text files like most data or executable binary files consist of non-printable characters.
+
